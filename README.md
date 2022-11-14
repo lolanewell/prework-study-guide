@@ -22,9 +22,8 @@ N/A
 ## Usage
 
 This Study Guide is to be used as support for bootcamp students completing their Prework. You can review notes on HTML, CSS, git, and JavaScript.
-![alt text](assets/Prework Study Guide Webpage.png)
+
 For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in browser. There you will see a list of topics we learned from Prework along with suggestions on which topic to study first.
-![alt text](assets/Prework Study Guide Webpage with Chrome DevTools open.png)
 
 ## Credits
 
