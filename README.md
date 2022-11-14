@@ -6,7 +6,7 @@ This Study Guide was created for bootcamp students doing their Prework. It suppo
 
 I built this project to not only help bootcamp students doing their Prework, but to learn the basics of HTML, CSS, git and JavaScript. 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
